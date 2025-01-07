@@ -1,6 +1,6 @@
 ![Background](https://media.licdn.com/dms/image/v2/D4E16AQFgkuIJcXmS2A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705243846218?e=1741824000&v=beta&t=pRhFj6fzY2HNGwoupv3DHOuWJYH33M23B1eWqrSYTfY)
 
-<h2 align="center" style="color: #61DAFB; font-family: 'Roboto', sans-serif;">Développeur React passionné par la création d'applications web</h2>
+<h2 align="center" style="color: #61DAFB; font-family: 'Shrikhand', sans-serif;">Développeur React passionné par la création d'applications web</h2>
 <h2 align=center>${\color{#61DAFB}Développeur }$ ${\color{#61DAFB}React }$ ${\color{#61DAFB}passionné }$ ${\color{#61DAFB}par }$ ${\color{#61DAFB}la }$ ${\color{#61DAFB}création }$ ${\color{#61DAFB}d'applications }$ ${\color{#61DAFB}web }$ </h3>
 
 <h3 align="center" style="color: #CC6699 ; font-family: 'Poppins', sans-serif;">Technologies que j'utilise</h3>
