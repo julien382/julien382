@@ -8,6 +8,13 @@
   ${\color{#646CFF}Découvrez }$ ${\color{#646CFF}mes }$ ${\color{#646CFF}projets }$ ${\color{#646CFF}récents, }$ ${\color{#646CFF}mes }$ ${\color{#646CFF}compétences, }$ ${\color{#646CFF}et }$ ${\color{#646CFF}des }$ ${\color{#646CFF}applications }$ ${\color{#646CFF}que }$ ${\color{#646CFF}j'ai }$ ${\color{#646CFF}créées. }$
 </p>
 
+<!-- Utilisation d'un badge pour le bouton -->
+<p align="center">
+  <a href="https://julien382.github.io/portfolioJulienHermain/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_my_Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio Badge" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://julien382.github.io/portfolioJulienHermain/" class="portfolio-link" style="font-family: 'Poppins', sans-serif; background-color: #61DAFB; color: black; padding: 15px 30px; border-radius: 8px; font-size: 1.5em; text-decoration: none;">Visite mon portfolio</a>
 </p>
