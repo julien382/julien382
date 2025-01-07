@@ -12,8 +12,8 @@
 
 <h2 align="center">${\color{#CC6699}Mes }$ ${\color{#CC6699}stats }$ ${\color{#CC6699}GitHub }$</h2>
 
-<!-- Conteneur flexbox pour aligner les deux images en ligne -->
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; max-width: 100%;">
+<!-- Conteneur flexbox avec row (ligne) pour aligner les images côte à côte -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; max-width: 100%; flex-wrap: nowrap;">
   <a href="https://github.com/julien382">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julien382&layout=compact" alt="Top Languages" height="200px" />
   </a>
