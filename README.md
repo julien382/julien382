@@ -2,6 +2,16 @@
 
 <h2 align="center">${\color{#61DAFB}Développeur }$ ${\color{#61DAFB}React }$ ${\color{#61DAFB}passionné }$ ${\color{#61DAFB}par }$ ${\color{#61DAFB}la }$ ${\color{#61DAFB}création }$ ${\color{#61DAFB}d'applications }$ ${\color{#61DAFB}web }$</h2>
 
+<h2 align="center">${\color{#CC6699}Mon }$ ${\color{#CC6699}Portfolio }$</h2>
+
+<p align="center" style="color: #646CFF; font-family: 'Poppins', sans-serif; font-size: 1.2em; text-align: center; margin: 20px auto;">
+  ${\color{#646CFF}Découvrez }$ ${\color{#646CFF}mes }$ ${\color{#646CFF}projets }$ ${\color{#646CFF}récents, }$ ${\color{#646CFF}mes }$ ${\color{#646CFF}compétences, }$ ${\color{#646CFF}et }$ ${\color{#646CFF}des }$ ${\color{#646CFF}applications }$ ${\color{#646CFF}que }$ ${\color{#646CFF}j'ai }$ ${\color{#646CFF}créées. }$
+</p>
+
+<p align="center">
+  <a href="https://julien382.github.io/portfolioJulienHermain/" class="portfolio-link" style="font-family: 'Poppins', sans-serif; background-color: #61DAFB; color: black; padding: 15px 30px; border-radius: 8px; font-size: 1.5em; text-decoration: none;">Visite mon portfolio</a>
+</p>
+
 <h2 align="center">${\color{#CC6699}Technologies }$ ${\color{#CC6699}que }$ ${\color{#CC6699}j'utilise }$</h2>
 
 <p align="center">
@@ -27,13 +37,3 @@
     </td>
   </tr>
 </table>
-
-<h2 align="center">${\color{#CC6699}Mon }$ ${\color{#CC6699}Portfolio }$</h2>
-
-<p align="center" style="color: #646CFF; font-family: 'Poppins', sans-serif; font-size: 1.2em; text-align: center; margin: 20px auto;">
-  ${\color{#646CFF}Découvrez }$ ${\color{#646CFF}mes }$ ${\color{#646CFF}projets }$ ${\color{#646CFF}récents, }$ ${\color{#646CFF}mes }$ ${\color{#646CFF}compétences, }$ ${\color{#646CFF}et }$ ${\color{#646CFF}des }$ ${\color{#646CFF}applications }$ ${\color{#646CFF}que }$ ${\color{#646CFF}j'ai }$ ${\color{#646CFF}créées. }$
-</p>
-
-<p align="center">
-  <a href="https://julien382.github.io/portfolioJulienHermain/" class="portfolio-link" style="font-family: 'Poppins', sans-serif; background-color: #61DAFB; color: black; padding: 15px 30px; border-radius: 8px; font-size: 1.5em; text-decoration: none;">Visite mon portfolio</a>
-</p>
