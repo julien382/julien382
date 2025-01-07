@@ -27,7 +27,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/julien382">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julien382&layout=compact&langs_count=10&card_width=500&bg_color=646CFF&title_color=61DAFB&text_color=FFFFFF" alt="Top Languages" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julien382&layout=compact&langs_count=10&card_width=500&bg_color=646CFF&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" height="200px" />
       </a>
     </td>
     <td align="center">
