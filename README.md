@@ -12,15 +12,21 @@
 
 <h2 align="center">${\color{#CC6699}Mes }$ ${\color{#CC6699}stats }$ ${\color{#CC6699}GitHub }$</h2>
 
-<!-- Flex container for row alignment -->
-<p align="center">
-  <a href="https://github.com/julien382">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julien382&layout=compact" alt="Top Languages" height="200px" style="margin-right: 20px;" />
-  </a>
-  <a href="https://github.com/julien382">
-    <img src="https://github-readme-stats.vercel.app/api?username=julien382&show_icons=true&hide_title=true&count_private=true" alt="Julien Hermain's GitHub stats" height="200px" />
-  </a>
-</p>
+<!-- Tableau pour aligner les stats en ligne (row) -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/julien382">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julien382&layout=compact" alt="Top Languages" height="200px" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/julien382">
+        <img src="https://github-readme-stats.vercel.app/api?username=julien382&show_icons=true&hide_title=true&count_private=true" alt="Julien Hermain's GitHub stats" height="200px" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">${\color{#CC6699}Mon }$ ${\color{#CC6699}Portfolio }$</h2>
 
