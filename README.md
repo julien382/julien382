@@ -12,15 +12,15 @@
 
 <h2 align="center">${\color{#CC6699}Mes }$ ${\color{#CC6699}stats }$ ${\color{#CC6699}GitHub }$</h2>
 
-<!-- Conteneur flexbox avec row (ligne) pour aligner les images côte à côte -->
-<div align="center" style="display: flex; justify-content: center; gap: 20px; max-width: 100%; flex-wrap: nowrap;">
+<!-- Flex container for row alignment -->
+<p align="center">
   <a href="https://github.com/julien382">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julien382&layout=compact" alt="Top Languages" height="200px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julien382&layout=compact" alt="Top Languages" height="200px" style="margin-right: 20px;" />
   </a>
   <a href="https://github.com/julien382">
     <img src="https://github-readme-stats.vercel.app/api?username=julien382&show_icons=true&hide_title=true&count_private=true" alt="Julien Hermain's GitHub stats" height="200px" />
   </a>
-</div>
+</p>
 
 <h2 align="center">${\color{#CC6699}Mon }$ ${\color{#CC6699}Portfolio }$</h2>
 
