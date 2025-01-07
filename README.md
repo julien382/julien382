@@ -11,7 +11,7 @@
 <!-- Utilisation d'un badge pour le bouton -->
 <p align="center">
   <a href="https://julien382.github.io/portfolioJulienHermain/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_my_Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio Badge" style="width: 250px; height: 40px;"/>
+    <img src="https://img.shields.io/badge/Voir_Mon_Portfolio-61DAFB?style=for-the-badge&logo=internet-explorer&logoColor=black" alt="Portfolio Badge" style="width: 250px; height: 40px;" />
   </a>
 </p>
 
