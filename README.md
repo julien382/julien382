@@ -27,12 +27,12 @@
   <tr>
     <td align="center">
       <a href="https://github.com/julien382">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julien382&layout=compact&langs_count=10&card_width=500&bg_color=2E3A8C&title_color=F9A826&text_color=FFFFFF" alt="Top Languages" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julien382&layout=compact&langs_count=10&card_width=500&bg_color=000000&title_color=61DAFB&text_color=FFFFFF" alt="Top Languages" height="200px" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/julien382">
-        <img src="https://github-readme-stats.vercel.app/api?username=julien382&show_icons=true&hide_title=true&count_private=true&bg_color=2E3A8C&title_color=F9A826&text_color=FFFFFF" alt="Julien Hermain's GitHub stats" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=julien382&show_icons=true&hide_title=true&count_private=true&bg_color=000000&title_color=61DAFB&text_color=FFFFFF" alt="Julien Hermain's GitHub stats" height="200px" />
       </a>
     </td>
   </tr>
