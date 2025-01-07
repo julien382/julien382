@@ -2,7 +2,7 @@
 
 <h2 align="center">${\color{#61DAFB}Développeur }$ ${\color{#61DAFB}React }$ ${\color{#61DAFB}passionné }$ ${\color{#61DAFB}par }$ ${\color{#61DAFB}la }$ ${\color{#61DAFB}création }$ ${\color{#61DAFB}d'applications }$ ${\color{#61DAFB}web }$</h2>
 
-<h2 align="center">${\color{#CC6699}Technologies }$ ${\color{#CC6699}que }$ ${\color{#CC6699}j'utilise }$</h3>
+<h2 align="center">${\color{#CC6699}Technologies }$ ${\color{#CC6699}que }$ ${\color{#CC6699}j'utilise }$</h2>
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" width="100" height="40" /></a>
@@ -10,7 +10,7 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" width="100" height="40" /></a>
 </p>
 
-<h2 align="center">${\color{#CC6699}Mes }$ ${\color{#CC6699}stats }$ ${\color{#CC6699}GitHub }$</h3>
+<h2 align="center">${\color{#CC6699}Mes }$ ${\color{#CC6699}stats }$ ${\color{#CC6699}GitHub }$</h2>
 
 <p align="center">
   <a href="https://github.com/julien382">
@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<h2 align="center">${\color{#CC6699}Mon }$ ${\color{#CC6699}Portfolio }$</h3>
+<h2 align="center">${\color{#CC6699}Mon }$ ${\color{#CC6699}Portfolio }$</h2>
 
 <p align="center" style="color: #646CFF; font-family: 'Poppins', sans-serif; font-size: 1.2em; text-align: center; margin: 20px auto;">
   ${\color{#646CFF}Découvrez }$ ${\color{#646CFF}mes }$ ${\color{#646CFF}projets }$ ${\color{#646CFF}récents, }$ ${\color{#646CFF}mes }$ ${\color{#646CFF}compétences, }$ ${\color{#646CFF}et }$ ${\color{#646CFF}des }$ ${\color{#646CFF}applications }$ ${\color{#646CFF}que }$ ${\color{#646CFF}j'ai }$ ${\color{#646CFF}créées. }$
