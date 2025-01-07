@@ -11,12 +11,8 @@
 <!-- Utilisation d'un badge pour le bouton -->
 <p align="center">
   <a href="https://julien382.github.io/portfolioJulienHermain/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_my_Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/Visit_my_Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio Badge" style="width: 300px; height: 50px;"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://julien382.github.io/portfolioJulienHermain/" class="portfolio-link" style="font-family: 'Poppins', sans-serif; background-color: #61DAFB; color: black; padding: 15px 30px; border-radius: 8px; font-size: 1.5em; text-decoration: none;">Visite mon portfolio</a>
 </p>
 
 <h2 align="center">${\color{#CC6699}Technologies }$ ${\color{#CC6699}que }$ ${\color{#CC6699}j'utilise }$</h2>
